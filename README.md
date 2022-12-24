@@ -1,2 +1,2 @@
 # Snake-Game
-Jogo da cobrinha/Dio ativ
+Jogo da cobrinha com JavaScript realizado junto a plataforma DIO
